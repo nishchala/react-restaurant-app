@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from "styled-components";
-import foodYummy from "../assets/FoodYummy.png";
+import foodYummy from "../assets/logo.png";
 
 export default function Navbar() {
   return (
@@ -29,7 +29,8 @@ padding: 0 4vw;
 
 .brand{
   img {
-    margin-top: 1rem;
+    width: 30%;
+    max-width: 80%;
     cursor: pointer;
   }
   .toggle {
