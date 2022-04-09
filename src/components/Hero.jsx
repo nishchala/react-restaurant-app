@@ -16,7 +16,7 @@ export default function Hero() {
           <h1>BIG SALE<span>50% OFF</span></h1>
         </div>
         <div className="info">
-          <h2>RESTAURANT</h2>
+          <h2>Food Caterer</h2>
           <em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, et!</em>
           <button>ORDER NOW</button>
         </div>
