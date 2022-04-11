@@ -1,3 +1,18 @@
+# Food catering service
+
+This is my practice project using React JS library for creating front end of a dummy website for an online food catering business.
+
+### Technologies used - 
+ HTML
+ CSS
+ Javascript
+ ReactJS with styled components
+ 
+ ### Screenshots -
+ Below screenshots show preview of the final website.
+ 
+ ![collage](https://user-images.githubusercontent.com/28265373/162803230-a0733fe6-1744-485c-b634-538fa705f1c5.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
