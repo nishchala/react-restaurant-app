@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from "styled-components";
-import background from "../assets/portfolio.jpg";
+import background from "../assets/portfolio2.jpg";
 
 export default function Portfolio() {
   return (
@@ -57,7 +57,7 @@ border-radius: 5rem;
   justify-content: center;
   align-items: flex-start;
   h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     width: 60%;
   }
   h2 {
