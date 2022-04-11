@@ -13,6 +13,7 @@ export const TitleStyles = css`
             color: #fc4958;
         }
     }
+
     .yellow {
         color: #f9c74f;
     }
